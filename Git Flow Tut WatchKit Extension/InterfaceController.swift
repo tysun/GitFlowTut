@@ -12,10 +12,16 @@ import Foundation
 
 class InterfaceController: WKInterfaceController {
 
+    
+    // We are on the develop branch
+    
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
         
-        // Configure interface objects here.
+        // We have created a monster feature.
+        // We have developed an insane Global Broadcasting feature 
+        // Updated the feature
+        // a little fix is here
     }
 
     override func willActivate() {
